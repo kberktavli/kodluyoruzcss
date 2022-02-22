@@ -1,0 +1,20 @@
+.stil {
+    text-align: center;
+    background-color: #8A39E1;
+    color: #ECC488;
+}
+.navbar > a{
+    text-align: center;
+    background-color: #8A39E1;
+    color: #ECC488;
+}
+
+.bwp{
+    background-image:url("../image/1960s-vintage-ghetto-urban-poor-board_1_5c87c9cca17403234504b9c3b5725316.jpg");
+    background-size: cover;
+    -webkit-background-size:cover;
+    -moz-background-size: cover;    
+    -o-background-size: cover;   
+    background-repeat:no-repeat; 
+}
+
